@@ -111,7 +111,7 @@
                 <version>${lombok.version}</version>
                 <scope>provided</scope>
             </dependency>
-            
+
             <!-- Tests: add with scope=test -->
             <dependency>
                 <groupId>junit</groupId>
@@ -213,19 +213,12 @@
                                 <goals>
                                     <goal>sign</goal>
                                 </goals>
+                                <configuration>
+                                    <keyname>853BB98C9D448F9CD57F7C2ECDAA513DFF662D28</keyname>
+                                </configuration>
                             </execution>
                         </executions>
                     </plugin>
-                </plugins>
-            </build>
-        </profile>
-        <profile>
-            <id>build-extras</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-            <build>
-                <plugins>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-source-plugin</artifactId>

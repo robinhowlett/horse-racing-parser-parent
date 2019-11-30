@@ -12,6 +12,7 @@
 
     <name>horse-racing-parser-parent</name>
     <url>https://github.com/robinhowlett/horse-racing-parser-parent</url>
+    <description>Parent POM for implementing horse racing parser projects</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

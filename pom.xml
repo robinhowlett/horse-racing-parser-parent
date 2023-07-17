@@ -21,7 +21,7 @@
 
         <horse-racing-data-model.version>1.0.0.RELEASE</horse-racing-data-model.version>
         <jackson.version>2.8.8</jackson.version>
-        <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
+        <spring-hateoas.version>1.5.5</spring-hateoas.version>
         <junit.version>4.12</junit.version>
         <mockito.version>2.18.3</mockito.version>
         <hamcrest.version>1.3</hamcrest.version>

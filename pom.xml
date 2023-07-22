@@ -20,7 +20,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
 
         <horse-racing-data-model.version>1.0.0.RELEASE</horse-racing-data-model.version>
-        <jackson.version>2.8.8</jackson.version>
+        <jackson.version>2.9.8</jackson.version>
         <spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
         <junit.version>4.12</junit.version>
         <mockito.version>2.18.3</mockito.version>
